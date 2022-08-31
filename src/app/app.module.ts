@@ -11,7 +11,7 @@ import { HttpClientModule } from '@angular/common/http';
     AppComponent,
     EstudiantesComponent,
     EmpresasComponent
-
+nn
   ],
   imports: [
     BrowserModule,
