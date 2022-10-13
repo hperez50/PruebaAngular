@@ -5,17 +5,13 @@ import { AppComponent } from './app.component';
 import { EstudiantesComponent } from './estudiantes/estudiantes.component';
 import { EmpresasComponent } from './empresas/empresas.component';
 import { HttpClientModule } from '@angular/common/http';
-import { PruebaComponent } from './prueba/prueba.component';
-import { NuevoComponent } from './empresas/nuevo/nuevo.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EstudiantesComponent,
-    EmpresasComponent,
-    PruebaComponent,
-    NuevoComponent
-
+    EmpresasComponent
+nn
   ],
   imports: [
     BrowserModule,
